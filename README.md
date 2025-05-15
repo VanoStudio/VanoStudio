@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,unity,godot,bootstrap,perline=4)](https://skillicons.dev)
 
 #### I'm Using:
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,windows&perline=3)](https://skillicons.dev)
 
