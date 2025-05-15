@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi! I'm VanoStudio, a passionate learner who's currently growing as a developer.👋
 
 <!--
 **VanoStudio/VanoStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently study on SMK Cyber Media
+🌱 I’m currently learning Machine learning and Game Development 
