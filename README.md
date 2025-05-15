@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,windows&perline=3)](https://skillicons.dev)
 
 #### Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagramlogoColor=white)](https://www.instagram.com/vanvan.gktau/profilecard/?igsh=bGswNjQzZnBqeGR4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagramlogoColor=white)](https://www.instagram.com/vanvan.gktau/)
 
 
 #### My Github Stats
