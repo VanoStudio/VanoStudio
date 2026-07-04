@@ -9,7 +9,7 @@
 #### Skills & Technologies:
 ![LANGUAGES](https://img.shields.io/badge/LANGUAGES-333333?style=flat-square)
 <br/>
-[![Languages](https://skillicons.dev/icons?i=html,css,cs,python,kotlin&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,cs,python,kotlin&perline=5)](https://skillicons.dev)<img src="https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=Scratch&logoColor=white" height="48"/>
 
 ![GAME DEVELOPMENT](https://img.shields.io/badge/GAME_DEVELOPMENT-333333?style=flat-square)
 <br/>
@@ -33,8 +33,12 @@
 
 
 #### My Github Stats
-![](https://nirzak-streak-stats.vercel.app/?user=vanostudio&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanostudio&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vanostudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanostudio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=vanostudio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://nirzak-streak-stats.vercel.app/?user=vanostudio&theme=tokyonight&hide_border=true)
+
+![](https://github-profile-trophy.vercel.app/?username=vanostudio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+![Contribution Snake](https://raw.githubusercontent.com/vanostudio/vanostudio/output/github-contribution-grid-snake-dark.svg)
 
