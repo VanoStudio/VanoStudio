@@ -6,15 +6,22 @@
 
 🌱 Currently learning Machine Learning and Game Development
 
-#### My Skills:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=whites"/>
+#### Skills & Technologies:
+![LANGUAGES](https://img.shields.io/badge/LANGUAGES-333333?style=flat-square)
+<br/>
+<img src="https://img.shields.io/badge/HTML5-2F2F2F?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-2F2F2F?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/C%23-2F2F2F?style=for-the-badge&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/Python-2F2F2F?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-2F2F2F?style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Scratch-2F2F2F?style=for-the-badge&logo=Scratch&logoColor=white"/>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,unity,godot,bootstrap&perline=4)](https://skillicons.dev)
+![GAME DEVELOPMENT](https://img.shields.io/badge/GAME_DEVELOPMENT-333333?style=flat-square)
+<br/>
+<img src="https://img.shields.io/badge/Unity-2F2F2F?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/Godot-2F2F2F?style=for-the-badge&logo=godotengine&logoColor=white"/>
 
-#### I'm Using:
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+![WEB & FRONTEND](https://img.shields.io/badge/WEB_%26_FRONTEND-333333?style=flat-square)
+<br/>
+<img src="https://img.shields.io/badge/Bootstrap-2F2F2F?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,windows&perline=3)](https://skillicons.dev)
+![TOOLS](https://img.shields.io/badge/TOOLS-333333?style=flat-square)
+<br/>
+<img src="https://img.shields.io/badge/VSCode-2F2F2F?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio-2F2F2F?style=for-the-badge&logo=visual%20studio&logoColor=white"/><img src="https://img.shields.io/badge/Android_Studio-2F2F2F?style=for-the-badge&logo=androidstudio&logoColor=white"/><img src="https://img.shields.io/badge/Windows-2F2F2F?style=for-the-badge&logo=windows&logoColor=white"/>
 
 #### Featured Projects:
 - 🎮 **[tiktok-mlbb](https://github.com/vanostudio/tiktok-mlbb)** — Mobile Legends themed TikTok project
