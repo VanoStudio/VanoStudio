@@ -9,19 +9,19 @@
 #### Skills & Technologies:
 ![LANGUAGES](https://img.shields.io/badge/LANGUAGES-333333?style=flat-square)
 <br/>
-<img src="https://img.shields.io/badge/HTML5-2F2F2F?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-2F2F2F?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/C%23-2F2F2F?style=for-the-badge&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/Python-2F2F2F?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-2F2F2F?style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Scratch-2F2F2F?style=for-the-badge&logo=Scratch&logoColor=white"/>
+[![Languages](https://skillicons.dev/icons?i=html,css,cs,python,kotlin&perline=5)](https://skillicons.dev)
 
 ![GAME DEVELOPMENT](https://img.shields.io/badge/GAME_DEVELOPMENT-333333?style=flat-square)
 <br/>
-<img src="https://img.shields.io/badge/Unity-2F2F2F?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/Godot-2F2F2F?style=for-the-badge&logo=godotengine&logoColor=white"/>
+[![Game Development](https://skillicons.dev/icons?i=unity,godot&perline=5)](https://skillicons.dev)
 
 ![WEB & FRONTEND](https://img.shields.io/badge/WEB_%26_FRONTEND-333333?style=flat-square)
 <br/>
-<img src="https://img.shields.io/badge/Bootstrap-2F2F2F?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+[![Web & Frontend](https://skillicons.dev/icons?i=bootstrap&perline=5)](https://skillicons.dev)
 
 ![TOOLS](https://img.shields.io/badge/TOOLS-333333?style=flat-square)
 <br/>
-<img src="https://img.shields.io/badge/VSCode-2F2F2F?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio-2F2F2F?style=for-the-badge&logo=visual%20studio&logoColor=white"/><img src="https://img.shields.io/badge/Android_Studio-2F2F2F?style=for-the-badge&logo=androidstudio&logoColor=white"/><img src="https://img.shields.io/badge/Windows-2F2F2F?style=for-the-badge&logo=windows&logoColor=white"/>
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows&perline=5)](https://skillicons.dev)
 
 #### Featured Projects:
 - 🎮 **[tiktok-mlbb](https://github.com/vanostudio/tiktok-mlbb)** — Mobile Legends themed TikTok project
